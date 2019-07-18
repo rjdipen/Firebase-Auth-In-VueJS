@@ -1,29 +1,6 @@
 # Firebase-Auth-In-VueJS
 
-## Project setup
-```
-npm install
-```
+##Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#Create Firebase Auth in vueJS using Vuex,Router,Axios and Vuetify 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
