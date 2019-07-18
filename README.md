@@ -1,4 +1,4 @@
-# todo-app
+# Firebase-Auth-In-VueJS
 
 ## Project setup
 ```
